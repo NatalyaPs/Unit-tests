@@ -1,0 +1,91 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ShopTest",
+            "request": "launch",
+            "mainClass": "Shop.ShopTest",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator.Calculator",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest",
+            "request": "launch",
+            "mainClass": "Calculator.CalculatorTest",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "seminars.first.Calculator.Calculator",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest",
+            "request": "launch",
+            "mainClass": "seminars.first.Calculator.CalculatorTest",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "seminars.first.Main",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest",
+            "request": "launch",
+            "mainClass": "CalculatorTest",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "AssertCondition",
+            "request": "launch",
+            "mainClass": "main.AssertCondition",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest",
+            "request": "launch",
+            "mainClass": "main.CalculatorTest",
+            "projectName": "examples_7ab66379",
+            "vmArgs": "-enableassertions"
+        }
+    ]
+    // dependencies {
+    //     // Такая зависимость используется только для тестирования
+    //     testImplementation("org.assertj:assertj-core:3.22.0")
+    // }
+}

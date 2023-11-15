@@ -23,14 +23,14 @@ public class Shop {
         this.products = products;
     }
 
-    public List<Product> getSortedListProducts() {
-        Collections.sort(this.products);
-        return this.products;
-    }    
+    // public List<Product> getSortedListProducts() {
+    //     Collections.sort(this.products);
+    //     return this.products;
+    // }    
         
 
-    public Product getMostExpensiveProduct() {
-        return (Product)this.getSortedListProducts().get(this.products.size() - 1);
-    }
+    // public Product getMostExpensiveProduct() {
+    //     return (Product)this.getSortedListProducts().get(this.products.size() - 1);
+    // }
 
 }

@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "assertj-core-3.23.1.jar",
+        "junit-jupiter-api-5.9.1.jar",
+        "junit-jupiter-params-5.9.1.jar",
+        "junit-platform-commons-1.9.1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "bin",
+        "sem_1/src/seminars/first",
+        "lec_1/src",
+        "hw_1/src",
+        "lec_2/src/test"
+    ],
+    "java.test.defaultConfig": "myDefaultConfig"
+}
