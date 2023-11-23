@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chromedriver-win64">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/chromedriver-win64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
