@@ -13,5 +13,8 @@
         "hw_1/src",
         "lec_2/src/test"
     ],
-    "java.test.defaultConfig": "myDefaultConfig"
+    "java.test.defaultConfig": "myDefaultConfig",
+    "python.testing.pytestArgs": ["sem_6_pythonProject-main (Код с семинара)"],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }

@@ -17,4 +17,7 @@
     <orderEntry type="library" name="mockito-core-5.0.0" level="project" />
     <orderEntry type="library" name="objenesis-3.3" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="af024348-2307-4da7-8749-70b950c5a83b" />
+  </component>
 </module>

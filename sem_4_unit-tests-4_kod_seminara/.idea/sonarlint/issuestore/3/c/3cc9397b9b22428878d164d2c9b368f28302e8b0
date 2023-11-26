@@ -1,0 +1,11 @@
+
+x
+java:S1192	"]Define a constant instead of duplicating this literal "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ð¼ÐµÑ‚Ð¾Ð´Ðµ" 4 times.(÷Œ’–úÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(Ä½Ê
+Q	java:S125>"<This block of commented-out lines of code should be removed.(Žá­Š
+V	java:S125B"<This block of commented-out lines of code should be removed.(„ñä¹ÿÿÿÿÿ
+F
+java:S5960)"+Remove this assertion from production code.(Í±ÄÚýÿÿÿÿ

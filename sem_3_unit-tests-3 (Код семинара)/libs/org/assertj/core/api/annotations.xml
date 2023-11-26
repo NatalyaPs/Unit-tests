@@ -1,7 +1,0 @@
-<root>
-    <item name='org.assertj.core.api.FactoryBasedNavigableListAssert org.assertj.core.api.FactoryBasedNavigableListAssert&lt;?,ACTUAL,ELEMENT,ELEMENT_ASSERT&gt; assertThat(java.util.List&lt;? extends ELEMENT&gt;, org.assertj.core.api.AssertFactory&lt;ELEMENT,ELEMENT_ASSERT&gt;)'>
-        <annotation name='org.jetbrains.annotations.Contract'>
-            <val name="pure" val="true"/>
-        </annotation>
-    </item>
-</root>
